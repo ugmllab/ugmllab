@@ -5,7 +5,7 @@
 - 🤖 AI enthusiast, open-source advocate, and a champion for linguistic diversity 🌍.
 - 📍 From Ürümqi to Shanghai 🏙️, at the crossroads of cultures and innovation 💡.
 
-## Current Working Projects 🚀
+## Ongoing Project Highlights 🚀
 - 🗣 **Uyghur-TTS**: Elevating communication with a text-to-speech system 🗣️ tailored for the Uyghur language 📝. This project harnesses the power of Burn 🔥, the Rust-based deep learning framework, for top-tier performance and efficiency 🚀.
 
 ## Technologies & Languages 🛠️
