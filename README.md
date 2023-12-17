@@ -1,4 +1,4 @@
-# Hi there, I'm UGMLLAB 👋🌟
+# Hi there, I'm UGMLLab 👋🌟
 
 ## About Me 📖
 - 🌱 I'm actively crafting 🛠️ machine learning tools that bolster the Uyghur language 📚 and expand its reach in the digital world 🌐.
