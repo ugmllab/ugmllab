@@ -1,6 +1,6 @@
 # Hi there, I'm UGMLLAB 👋
 
-![UGMLLAB's mascot](link-to-mascot-image)
+
 
 ## About Me
 - 🌱 I’m currently working on developing machine learning-enabled tools to empower the Uyghur language and beyond.
@@ -21,8 +21,7 @@
 - 👀 I’m looking to collaborate on projects that support language preservation and AI accessibility.
 - 📫 How to reach me: ugmllab@proton.me
 
-## My GitHub Contributions
-- I believe in consistent, small steps to create impactful projects. Here's how I've been contributing:
-![GitHub Contribution Grid](link-to-contribution-grid-image)
+
+
 
 
