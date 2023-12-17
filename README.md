@@ -6,14 +6,15 @@
 - 📍 From Ürümqi to Shanghai 🏙️, at the crossroads of cultures and innovation 💡.
 
 ## Ongoing Project Highlights 🚀
-- 🗣 **Uyghur-TTS**: Elevating communication with a text-to-speech system 🗣️ tailored for the Uyghur language 📝. Powered by Burn 🔥, the Rust-based deep learning framework, this project has reached significant milestones:
+- 🗣 **Uyghur-TTS**: Elevating communication with a text-to-speech system 🗣️ tailored for the Uyghur language 📝. This project, powered by Burn 🔥, the Rust-based deep learning framework, has achieved several key milestones:
 
   1. **Data Processing**: Completed - Efficient handling and organization of linguistic data.
   2. **Feature Processing**: Completed - Advanced extraction and refinement of speech features.
-  3. **Voice Processing**: Completed - State-of-the-art methods for voice processing and synthesis.
+  3. **Voice Data Processing**: Completed - Meticulous handling and extraction of voice data features, ensuring high-quality voice synthesis.
 
 ### 🚧 Current Focus: Model Building
 - **Model Building**: In Progress - Developing a robust, efficient machine learning model utilizing Burn's capabilities.
+
 
 
 ## Technologies & Languages 🛠️
