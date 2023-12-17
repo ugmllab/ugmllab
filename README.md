@@ -6,11 +6,7 @@
 - 🌏 Hailing from Ürümqi / Shanghai, at the crossroads of cultures and innovation.
 
 ## Current Working Projects
-- 🗣 **Uyghur-TTS**: Advancing communication with a text-to-speech system tailored for the Uyghur language.
-- 🔍 **Uyghur-Text-Analyser**: Unveiling linguistic insights through machine learning analysis of Uyghur texts.
-
-## Recent Development
-- 🔥 **[Project Name]**: A groundbreaking project using Burn, the Rust-based deep learning framework, focusing on [brief project description].
+- 🗣 **Uyghur-TTS**: Advancing communication with a text-to-speech system tailored for the Uyghur language. This project leverages Burn, the Rust-based deep learning framework, for state-of-the-art performance and efficiency.
 
 ## Technologies & Languages
 - 🧠 **ML Frameworks**: Proficient in PyTorch, and adept at using Burn, the Rust-based deep learning framework.
