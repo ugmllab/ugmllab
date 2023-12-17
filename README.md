@@ -9,6 +9,9 @@
 - 🗣 **Uyghur-TTS**: Advancing communication with a text-to-speech system tailored for the Uyghur language.
 - 🔍 **Uyghur-Text-Analyser**: Unveiling linguistic insights through machine learning analysis of Uyghur texts.
 
+## Recent Development
+- 🔥 **[Project Name]**: A groundbreaking project using Burn, the Rust-based deep learning framework, focusing on [brief project description].
+
 ## Technologies & Languages
 - 🧠 **ML Frameworks**: Proficient in PyTorch, and adept at using Burn, the Rust-based deep learning framework.
 - 💻 **Languages**: Fluent in Python and Rust, focusing on leveraging Python for ML and Rust for system performance and safety.
