@@ -10,8 +10,8 @@
 - 🔍 **Uyghur-Text-Analyser**: Unveiling linguistic insights through machine learning analysis of Uyghur texts. [Discover how](#)
 
 ## Technologies & Languages
-- 🧠 **ML Frameworks**: Proficient in PyTorch and exploring Burn for state-of-the-art AI development.
-- 💻 **Languages**: Fluent in Python, Rust, and JavaScript, with in-depth knowledge of Python's PyTorch library and Rust's robust system capabilities.
+- 🧠 **ML Frameworks**: Proficient in PyTorch, and adept at using Burn, the Rust-based deep learning framework.
+- 💻 **Languages**: Fluent in Python and Rust, with a command of JavaScript and a focus on leveraging Python for ML and Rust for system performance and safety.
 
 ## Let's Collaborate
 - 👓 Eager to join forces on initiatives that champion language preservation and make AI tools more accessible.
