@@ -5,13 +5,13 @@
 - 🤖 AI, open source, and the celebration of linguistic diversity are my core passions.
 - 🌏 Hailing from Ürümqi / Shanghai, at the crossroads of cultures and innovation.
 
-## My Projects
-- 🗣 **Uyghur-TTS**: Advancing communication with a text-to-speech system tailored for the Uyghur language. [Learn more](#)
-- 🔍 **Uyghur-Text-Analyser**: Unveiling linguistic insights through machine learning analysis of Uyghur texts. [Discover how](#)
+## Current Working Projects
+- 🗣 **Uyghur-TTS**: Advancing communication with a text-to-speech system tailored for the Uyghur language.
+- 🔍 **Uyghur-Text-Analyser**: Unveiling linguistic insights through machine learning analysis of Uyghur texts.
 
 ## Technologies & Languages
 - 🧠 **ML Frameworks**: Proficient in PyTorch, and adept at using Burn, the Rust-based deep learning framework.
-- 💻 **Languages**: Fluent in Python and Rust, with a command of JavaScript and a focus on leveraging Python for ML and Rust for system performance and safety.
+- 💻 **Languages**: Fluent in Python and Rust, focusing on leveraging Python for ML and Rust for system performance and safety.
 
 ## Let's Collaborate
 - 👓 Eager to join forces on initiatives that champion language preservation and make AI tools more accessible.
