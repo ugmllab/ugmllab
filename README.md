@@ -16,7 +16,6 @@
 - **Model Building**: In Progress - Developing a robust, efficient machine learning model utilizing Burn's capabilities.
 
 
-
 ## Technologies & Languages 🛠️
 - 🧠 **ML Frameworks**: A maestro in PyTorch 🔥 and a wizard in Burn 🪄, the Rust-based deep learning framework.
 - 💻 **Languages**: Commanding Python 🐍 and Rust 🦀, focusing on leveraging Python for ML brilliance 🌌 and Rust for system performance and safety 🔒.
