@@ -3,7 +3,7 @@
 ## About Me 📖
 - 🌱 I'm actively crafting 🛠️ machine learning tools that bolster the Uyghur language 📚 and expand its reach in the digital world 🌐.
 - 🤖 AI enthusiast, open-source advocate, and a champion for linguistic diversity 🌍.
-- 📍 Rooted in the historic Ürümqi, a beacon of Uyghur culture and art 🎨🌟. Surrounded by a kaleidoscope of Uyghur traditions, melodious tunes 🎵, and poetic language 📚, I am inspired by this vibrant cultural mosaic 🌈 to fuel innovation and technological advancement in AI 💡🤖.
+- 📍 Rooted in the vibrant city of Ürümqi, a beacon of Uyghur culture and art 🎨🌟. Surrounded by a kaleidoscope of Uyghur traditions, melodious tunes 🎵, and poetic language 📚, I am inspired by this vibrant cultural mosaic 🌈 to fuel innovation and technological advancement in AI 💡🤖.
 
 ## Ongoing Project Highlights 🚀
 - 🗣 **Uyghur-TTS**: Elevating communication with a text-to-speech system 🗣️ tailored for the Uyghur language 📝. This project, powered by Burn 🔥, the Rust-based deep learning framework, has achieved several key milestones:
