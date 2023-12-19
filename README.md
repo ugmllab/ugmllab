@@ -11,9 +11,10 @@
   1. **Data Processing**: Completed - Efficient handling and organization of linguistic data.
   2. **Feature Processing**: Completed - Advanced extraction and refinement of speech features.
   3. **Voice Data Processing**: Completed - Meticulous handling and extraction of voice data features, ensuring high-quality voice synthesis.
-
-### 🚧 Current Focus: Model Building
-- **Model Building**: In Progress - Developing a robust, efficient machine learning model utilizing Burn's capabilities.
+  4. **Model Building**: Completed - Successfully developed a robust, efficient machine learning model using Burn's capabilities.
+  
+### 🚧 Current Focus: Model Training
+- **Model Building**: In Progress - Preparing to train the model to achieve optimal performance and accuracy.
 
 
 
