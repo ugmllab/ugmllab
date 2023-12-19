@@ -14,7 +14,7 @@
   4. **Model Building**: Completed - Successfully developed a robust, efficient machine learning model using Burn's capabilities.
   
 ### 🚧 Current Focus: Model Training
-- **Model Building**: In Progress - Preparing to train the model to achieve optimal performance and accuracy.
+- **Model Training**: In Progress - Preparing to train the model to achieve optimal performance and accuracy.
 
 
 
